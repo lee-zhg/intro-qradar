@@ -104,7 +104,7 @@ To install the QRadar App Editor,
 
     ![](docs/images/admin-tab-02.png)
 
-1. If the `Develop Applications` icon does not appears on the `Admin` tab, and the message `"There are undeployed changes. Click 'Deploy Changes' to deploy them. View Details"` is displayed on the top of the tab, click `Deploy Changes` link above the message.
+1. If the `Develop Applications` icon does not appears on the `Admin` tab, and the message **"There are undeployed changes. Click 'Deploy Changes' to deploy them. View Details"** is displayed on the top of the tab, click `Deploy Changes` link above the message.
 
     ![](docs/images/admin-tab-05.png)
 
