@@ -100,7 +100,17 @@ To install the QRadar App Editor,
 
 1. Refresh your browser. This brings you to the `Dashboard` tab.
 
-1. Go back to `Admin` tab and scroll down. The `Develop Applications` icon should appear.
+1. Go back to `Admin` tab and scroll down. If the `Develop Applications` icon appears on the `Admin` tab, you are ready to move onto the next step. Skip the rest setps in this section. 
+
+    ![](docs/images/admin-tab-02.png)
+
+1. If the `Develop Applications` icon does not appears on the `Admin` tab, and the message `There are undeployed changes. Click 'Deploy Changes' to deploy them. View Details` is displayed on the top of the tab, click `Deploy Changes` link above the message.
+
+    ![](docs/images/admin-tab-05.png)
+
+1. This may take a minute or so.
+
+1. After the new changes are deployed, scroll down in the `Admin` tab. The `Develop Applications` icon appears.
 
     ![](docs/images/admin-tab-02.png)
 
