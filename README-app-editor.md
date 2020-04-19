@@ -59,6 +59,12 @@ During the lab, you are going to
 To install the QRadar App Editor,
 
 1. Download the QRadar App Editor extension from the `IBM X-Force Exchange / App Exchange` (https://exchange.xforce.ibmcloud.com/). For example, qradarappeditor_2.2.0.zip.
+    - Login to the `IBM X-Force Exchange / App Exchange` (https://exchange.xforce.ibmcloud.com/).
+    - Search for `QRadar App Editor`.
+        ![](docs/images/x-force-01.png)
+    - Select the `IBM Security App Exchange` checkbox in the navigation pane on the left.
+    - Click `QRadar - QRadar App Editor` link.
+    - `Download`. Make sur ethe pop-up block is off for your browser.
 
 1. Login to QRadar console.
 
