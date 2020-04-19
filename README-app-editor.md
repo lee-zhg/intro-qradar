@@ -114,6 +114,8 @@ To install the QRadar App Editor,
 
     ![](docs/images/admin-tab-02.png)
 
+1. Refresh the browser.
+
 
 ### Part 2 - Create Hello World app
 
