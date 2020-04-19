@@ -54,7 +54,7 @@ In this first lab, we will explore the traditional approaching to building model
 
 ### QRadar Lab2 - Create a new QRadar App
 
-This lab will walk you through steps to build, modify and delete an application in QRadar console. The QRadar App Editor is an easy-to-use editor that any app developer can use. When you use the App Editor to develop a new app or import an existing app, the App Editor is on the app development tab. The App Editor is a ready-made workspace for you to manage the development of your app. Follow the instructions in the [Readme of QRadar Lab2 - Create a new QRadar App](README-app-editor.md).
+This lab will walk you through steps to build, modify and delete an application in QRadar console. Follow the instructions in the [Readme of QRadar Lab2 - Create a new QRadar App](README-app-editor.md).
 
 
 ## Related Links
