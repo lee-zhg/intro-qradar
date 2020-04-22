@@ -47,9 +47,9 @@ QRadar is a complex platform. As a developer, you learn how to
 - create a custom application 
 
 
-### QRadar Lab1 - 
+### QRadar Lab1 - Create a new DSM
 
-In this first lab, we will explore the traditional approaching to building models in code, using Python and Spark as our implementation of choice. Follow the instructions in the [Readme for code based approach](ModelBuild-Code.md)
+In this first lab, you walk through steps to build a new DSM in QRadar console. Follow the instructions in the [Readme of QRadar Lab1 - Create a new DSM](README-dsm.md)
 
 
 ### QRadar Lab2 - Create a new QRadar App
