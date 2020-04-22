@@ -42,23 +42,23 @@ You use the following tools to build a new app in QRadar.
 ## Requirements
 
 - Access to QRadar system
-- IBM ID to access `IBM X-Force Exchange / App Exchange`
+- IBM ID to access **IBM X-Force Exchange / App Exchange**
 
 
 ## Lab Flow
 
 During the lab, you are going to
-- install the QRadar App Editor into your QRadar system
-- create a Hello World app via QRadar App Editor
-- modify the Hello World app via QRadar App Editor
-- delete the Hello World app via QRadar App Editor
+- install the **QRadar App Editor** into your QRadar system
+- create a Hello World app via **QRadar App Editor**
+- modify the Hello World app via **QRadar App Editor**
+- delete the Hello World app via **QRadar App Editor**
 
 
 ### Part 1 - Install QRadar App Editor
 
-To install the QRadar App Editor,
+To install the **QRadar App Editor**,
 
-1. Download the QRadar App Editor extension from the `IBM X-Force Exchange / App Exchange` (https://exchange.xforce.ibmcloud.com/). For example, qradarappeditor_2.2.0.zip.
+1. Download the **QRadar App Editor** extension from the `IBM X-Force Exchange / App Exchange` (https://exchange.xforce.ibmcloud.com/). For example, **qradarappeditor_2.2.0.zip**.
     - Login to the `IBM X-Force Exchange / App Exchange` (https://exchange.xforce.ibmcloud.com/).
     - Search for `QRadar App Editor`.
         ![](docs/images/x-force-01.png)
