@@ -533,7 +533,7 @@ You are almost there. However, important information `Event Name` and `Low Level
 Up to now, you have crated and configured a new custom DSM successfully.
 
 
-### Part 8 - verification 
+### Part 8 - Verification 
 
 Up to this point, you have created new custom **Log Source Type**, **Log Source** and **DSM**. You configured attribute mappings and event mapping for the custom DSM.
 
